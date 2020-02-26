@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1574696948 source:g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.1\main.cpp
+	<iostream>
+	<conio.h>
+	"Auto.h"
+	"Obstaculo.h"
+	"Menu.h"
+	"Pista.h"
+
+1574526076 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.1\include\auto.h
+	<iostream>
+	<windows.h>
+
+1573351472 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.1\include\obstaculo.h
+
+1574104214 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.1\include\menu.h
+
+1574696932 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.1\include\pista.h
+	<fstream>
+
+1576092828 source:g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.2char\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<vector>
+	<conio.h>
+	"Auto.h"
+	"Obstaculo.h"
+	"Menu.h"
+	"Pista.h"
+	"COMODIN.H"
+
+1575732110 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.2char\include\auto.h
+	<iostream>
+	<windows.h>
+
+1575408016 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.2char\include\obstaculo.h
+
+1576092660 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.2char\include\menu.h
+	<fstream>
+
+1576092506 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.2char\include\pista.h
+	<fstream>
+
+1575055972 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.2char\include\colisiones.h
+
+1575408016 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.2char\include\comodin.h
+	<fstream>
+
+1576100468 source:g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.5\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<vector>
+	<conio.h>
+	"Auto.h"
+	"Obstaculo.h"
+	"Menu.h"
+	"Pista.h"
+	"COMODIN.H"
+
+1576098904 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.5\include\auto.h
+	<iostream>
+	<windows.h>
+
+1576099718 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.5\include\obstaculo.h
+
+1576099756 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.5\include\menu.h
+	<fstream>
+
+1576099862 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.5\include\pista.h
+	<fstream>
+
+1576099912 g:\2do semestre\programacion i\proyecto final versiones\proyecto 0.5\include\comodin.h
+	<fstream>
+
